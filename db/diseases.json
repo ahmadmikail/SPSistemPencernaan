@@ -1,0 +1,69 @@
+[
+    {
+        "id": 1,
+        "kodePenyakit": "P1",
+        "namaPenyakit": "GERD", 
+        "keterangan": "GERD (gastroesophageal reflux disease) merupakan penyakit pencernaan yang disebabkan karena adanya pelemahan katup (sfingter) yang terletak pada esofagus. Pada penyakit ini asam lambung dan isi perut kembali mengalir ke kerongkongan sehingga menyababkan penderita merasakan perih dan panas di bawah bagian tulang dada." 
+    },
+
+    {
+        "id": 2,
+        "kodePenyakit": "P2",
+        "namaPenyakit": "Tukak Lambung", 
+        "keterangan": "Tukak lambung merupakan penyakit dimana adanya pengikisan lapisan mukus pada lambung yang berfungsi untuk melindungi jaringan lambung dari asam lambung. Pengikisan pada lapisan mukus tersebut umumnya disebabkan oleh infeksi bakteri , konsumsi obat-obatan, dan minum alkohol terlalu banyak."
+    },
+
+    {
+        "id": 3,
+        "kodePenyakit": "P3",
+        "namaPenyakit": "Gastroparesis", 
+        "keterangan": "Gastroparesis merupakan kelainan pada lambung yang menyebabkan gangguan pada otot lambung sehingga makanan yang seharusnya disalurkan ke usus menjadi lambat."
+    },
+
+    {
+        "id": 4,
+        "kodePenyakit": "P4",
+        "namaPenyakit": "Dispepsia/Maag", 
+        "keterangan": "Dispepsia atau biasa disebut dengan maag merupakan suatu kondisi adanya rasa tidak nyaman pada bagian atas perut. Dispepsia bukan merupakan penyakit, melainkan masalah kesehatan yang terjadi pada pencernaan yang dapat menjadi gejala awal penyakit pencernaan."
+    },
+
+    {
+        "id": 5,
+        "kodePenyakit": "P5",
+        "namaPenyakit": "Diare", 
+        "keterangan": "Diare adalah penyakit dimana kondisi penderita buang air besar lebih sering dari biasanya dalam sehari dengan feses berbentuk encer. Diare biasanya disebabkan oleh virus atau bakteri pada usus besar yang berasal dari makanan atau minuman yang dikonsumsi."
+    },
+
+    {
+        "id": 6,
+        "kodePenyakit": "P6",
+        "namaPenyakit": "Disentri", 
+        "keterangan": "Distenri merupakan peradangan dan infeksi pada usus yang dapat disebabkan oleh bakteri atau parasit. penyakit ini dapat menyebabkan banyak komplikasi dan tidak hanya menyerang sistem pencernaan."
+    },
+
+    {
+        "id": 7,
+        "kodePenyakit": "P7",
+        "namaPenyakit": "Tipes", 
+        "keterangan": "Tipes merupakan penyakit pada usus yang disebabkan bakteri Salmonella thyphi dan tersebar melalui makanan dan air yang dikonsumsi manusia. Selain itu, bakteri ini juga dapat ditularkan melalui orang yang terinfeksi."
+    },
+    {
+        "id": 8,
+        "kodePenyakit": "P8",
+        "namaPenyakit": "Kolera", 
+        "keterangan": "Kolera merupakan penyakit yang disebabkan infeksi bakteri Vibrio cholerae. Sumber penyebaran utama bakteri ini melalui air dan makanan yang tidak dibersihkan dan tidak dimasak dengan benar."
+    },
+    {
+        "id": 9,
+        "kodePenyakit": "P9",
+        "namaPenyakit": "Radang usus", 
+        "keterangan": "Radang usus atau inflammatory bowel disease merupakan kelainan sistem pencernaan yang ditandai dengan adanya pembengkakkan pada usus. Penyakit ini biasanya disebabkan oleh faktor keturunan, kelainan pada ekkebalan tubuh, dan sanitasi yang kurang baik."
+    }, 
+    {
+        "id": 10,
+        "kodePenyakit": "P10",
+        "namaPenyakit": "Penyumbatan usus halus", 
+        "keterangan": "Penyumbatan didalam usus daoat menyebabkan adanya tumpukan makanan, cairan, asam lambung, atau gas sehingga menimbulkan tekanan pada usus dan pada akhirnya dapat menjadi sobek dan mengeluarkan isi perut ke rongga perut."
+    }            
+
+]
